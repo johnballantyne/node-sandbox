@@ -1,3 +1,5 @@
+//IMPORTANT: Pronounced: ROW (as in NOW), TER as in GRR
+
 function route (handle, pathname) {
     console.log("About to route a request for " + pathname);
     if (typeof handle[pathname] === 'function') {
