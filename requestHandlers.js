@@ -1,5 +1,5 @@
 function start() {
-    console.log("Request hand;er 'start' was called.");
+    console.log("Request handler 'start' was called.");
 }
 
 function upload() {
